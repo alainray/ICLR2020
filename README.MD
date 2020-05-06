@@ -9,3 +9,5 @@ The code will output bar charts for each type of paper.
 You can threshold the minimum number of papers for a keyword to be included as well as the number of keywords shown.
 
 You can choose whether to display the "Others" keywords which groups all keywords below the threshold.
+
+![Sample](https://octodex.github.com/images/yaktocat.png)
