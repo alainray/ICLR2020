@@ -10,4 +10,4 @@ You can threshold the minimum number of papers for a keyword to be included as w
 
 You can choose whether to display the "Others" keyword which groups all keywords below the threshold.
 
-![Sample](https://github.com/alainray/ICLR2020/blob/master/sample.png)
+![Sample](https://github.com/alainray/ICLR2020/blob/master/sample1.png)
